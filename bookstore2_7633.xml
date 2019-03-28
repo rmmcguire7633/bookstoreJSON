@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book isbn="978-0060554736">
+            <title>The Game</title>
+            <author>Neil Strauss</author>
+            <publisher>Harpercollins</publisher>
+            <store>Fraport Bookstore</store>
+            <location>Frankfurt Airport</location>
+        </book>
+        <book isbn="978-3832180577">
+            <title>Feuchtgebiete</title>
+            <author>Charlotte Roche</author>
+            <publisher>Dumont Buchverlag</publisher>
+            <store>Fraport Bookstore</store>
+            <location>Frankfurt Airport</location>
+        </book>
+    </bookList>
+
+    <bookList>
+        <book isbn="945-4411111000">
+            <title>Summer Falls</title>
+            <author>Amelia Williams</author>
+            <publisher>BBC</publisher>
+            <store>London Bookstore</store>
+            <location>17839 Heathrow</location>
+        </book>
+    </bookList>
+
+    <bookList>
+        <book isbn="125-0001005544">
+            <title>Fairy Tales</title>
+            <author>Hans Christian Anderson</author>
+            <publisher>Dutch Publishing</publisher>
+            <store>Fantasy &amp; Science Fiction Books</store>
+            <location>San Francisco</location>
+        </book>
+        <book isbn="891-3132777155">
+            <title>The Name of the Wind</title>
+            <author>Patrick Rothfuss</author>
+            <publisher>TOR</publisher>
+            <store>Fantasy &amp; Science Fiction Books</store>
+            <location>San Francisco</location>
+        </book>
+        <book isbn="111-3222224100">
+            <title>The Alloy of Law</title>
+            <author>Brandon Sanderson</author>
+            <publisher>TOR</publisher>
+            <store>Fantasy &amp; Science Fiction Books</store>
+            <location>San Francisco</location>
+        </book>
+    </bookList>
+</bookstore>
